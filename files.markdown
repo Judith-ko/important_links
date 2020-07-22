@@ -1,10 +1,6 @@
 ## Important Links
 
 
-
-test thomas
-
-
 ## RStudio
 
 **Important Packages for R use** -> später genauer beschreiben
@@ -62,6 +58,7 @@ https://guides.github.com/features/mastering-markdown
 
 _Relative Paths working directory_
 
+
 _Introduction to Pivot Tables, Charts, and Dashboards in Excel_
 
 https://www.youtube.com/watch?v=9NUjHBNWe9M 
@@ -79,6 +76,7 @@ _**Excel**_
 
 
 _Pivot Tables - Gruppierung von Zahlen und Datumswerten_
+
 https://www.youtube.com/watch?v=LNCA4Uj36Fs
 
 _Achsenbeschriftung Excel beidseitig_ ?
